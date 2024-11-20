@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Amy PharmD</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2024 20:38:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:19:50 -0600</lastBuildDate>
     <atom:link href="https://amypharmd.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brain Rewire</title>
+      <link>https://amypharmd.com/posts/brain-rewire/</link>
+      <pubDate>Tue, 19 Nov 2024 21:19:50 -0600</pubDate>
+      <guid>https://amypharmd.com/posts/brain-rewire/</guid>
+      <description>To help rewire the brain as a developer, I like to think in terms of bubbles. One starts with the first all-encompassing bubble, the Application itself. But what is an application? How can we start to break it down?&#xA;Most people think of an application as purely software written in some programming language. Typically overlooked, an application must also consider its target environment (or platform). For example, let&amp;rsquo;s take the word processor application Microsoft Word.</description>
+    </item>
     <item>
       <title>Hello World!</title>
       <link>https://amypharmd.com/posts/hello-world-mtc/</link>
